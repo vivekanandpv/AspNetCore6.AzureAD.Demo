@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore6.AzureAD.Demo", "AspNetCore6.AzureAD.Demo.csproj", "{553D8A45-3BAF-430E-8258-CC78A503684E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553D8A45-3BAF-430E-8258-CC78A503684E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553D8A45-3BAF-430E-8258-CC78A503684E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553D8A45-3BAF-430E-8258-CC78A503684E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553D8A45-3BAF-430E-8258-CC78A503684E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757BEA81-FFC4-4122-9A7F-89B7AD490D52}
+	EndGlobalSection
+EndGlobal
